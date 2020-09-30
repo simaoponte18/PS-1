@@ -1,0 +1,2 @@
+# PS
+Exercicio 1
